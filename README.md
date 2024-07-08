@@ -8,7 +8,7 @@ The universal proxy platform.
 
 https://sing-box.sagernet.org
 
-## Support
+## Support 
 
 https://community.sagernet.org/c/sing-box/
 
